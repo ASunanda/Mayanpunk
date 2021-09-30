@@ -1,0 +1,20 @@
+{
+  "name": "Mayanpunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASunanda/Mayanpunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASunanda/Mayanpunk/issues"
+  },
+  "homepage": "https://github.com/ASunanda/Mayanpunk#readme"
+}
